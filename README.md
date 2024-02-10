@@ -5,47 +5,71 @@ A list of surveys covering various aspects of IT and software development, inclu
 ## Devographics
 | title / description | url | notes |
 |--|--|--|
-| State of HTML | [surveys](https://stateofhtml.com/) |
-| State of CSS | [surveys](https://stateofcss.com/) |
-| State of JS | [surveys](https://stateofjs.com/) |
-| State of React | [surveys](https://stateofreact.com/) |
-| State of GraphQL | [surveys](https://stateofgraphql.com/) |
+| State of HTML | [surveys](https://stateofhtml.com/) | |
+| State of CSS | [surveys](https://stateofcss.com/) | |
+| State of JS | [surveys](https://stateofjs.com/) | |
+| State of React | [surveys](https://stateofreact.com/) | |
+| State of GraphQL | [surveys](https://stateofgraphql.com/) | |
 
-## JavaScript Rising Stars
-https://risingstars.js.org/
+## Michael Rambeau (Best of JS)
+| title / description | url | notes |
+|--|--|--|
+| JavaScript Rising Stars | [surveys](https://risingstars.js.org/) | |
 
 ## Stack Overflow
-https://insights.stackoverflow.com/survey
+| title / description | url | notes |
+|--|--|--|
+| Stack Overflow Annual Developer Surveys | [surveys](https://insights.stackoverflow.com/survey) | |
 
 ## Octoverse (GitHub)
-https://github.blog/2023-11-08-the-state-of-open-source-and-ai/
+| title / description | url | notes |
+|--|--|--|
+| The state of the Octoverse | [2023 survey](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) | |
 
 ## JetBrains
-https://www.jetbrains.com/lp/devecosystem-2023/
+| title / description | url | notes |
+|--|--|--|
+| The State of Developer Ecosystem | [2023 survey](https://www.jetbrains.com/lp/devecosystem-2023/) | |
 
 ## W3Techs
-https://w3techs.com/
+| title / description | url | notes |
+|--|--|--|
+| World Wide Web Technology Surveys | [surveys](https://w3techs.com/) | |
 
 ## Pierre Carbonnelle
-https://pypl.github.io/
+| title / description | url | notes |
+|--|--|--|
+| PYPL Index | [surveys](https://pypl.github.io/PYPL.html) | |
+| 10 TOP IDE | [surveys](https://pypl.github.io/IDE.html) | |
+| 10 TOP ODE | [surveys](https://pypl.github.io/ODE.html) | |
+| 10 TOP DB | [surveys](https://pypl.github.io/DB.html) | |
 
 ## Basedash
-https://stateofdb.com/
+| title / description | url | notes |
+|--|--|--|
+| State of Database Survey | [surveys](https://stateofdb.com/) | |
 
 ## Flatlogic
-https://flatlogic.com/blog/?s=%5Bresearch+results%5D
+| title / description | url | notes |
+|--|--|--|
+| Starting Web App Surveys | [surveys](https://flatlogic.com/blog/?s=%5Bresearch+results%5D) | |
 
 ## Timescale
-https://www.timescale.com/state-of-postgres/
+| title / description | url | notes |
+|--|--|--|
+| State of PostgreSQL | [surveys](https://www.timescale.com/state-of-postgres/) | |
 
 ## Tobias Petry
-https://stateoflaravel.com/
+| title / description | url | notes |
+|--|--|--|
+| State of Laravel | [surveys](https://stateoflaravel.com/) | |
 
-## Developer Nation (SlashData) - registration needed to see the full report
-https://developernation.net/resources/reports
+## Developer Nation (SlashData)
+| title / description | url | notes |
+|--|--|--|
+| State of the Developer Nation Surveys | [surveys](https://developernation.net/resources/reports) | registration needed to see the full report | |
 
 ## SmartBear Software - registration needed to see the full report
-https://smartbear.com/state-of-software-quality/
-
-
-
+| title / description | url | notes |
+|--|--|--|
+| SmartBear Surveys | [surveys](https://smartbear.com/state-of-software-quality/) | registration needed to see the full report | |
