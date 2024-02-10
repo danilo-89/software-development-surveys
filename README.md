@@ -3,13 +3,13 @@
 A list of surveys covering various aspects of IT and software development, including programming languages, frameworks, tools, and methodologies, that can provide insights into current trends and future directions in the tech industry and development ecosystem.
 
 ## Devographics
-|  |  |
-|--|--|
-| https://stateofhtml.com/ |  |
-| https://stateofcss.com/ |  |
-| https://stateofjs.com/ |  |
-| https://stateofreact.com/ |  |
-| https://stateofgraphql.com/ |  |
+| title / description | url | notes |
+|--|--|--|
+| State of HTML | [surveys](https://stateofhtml.com/) |
+| State of CSS | [surveys](https://stateofcss.com/) |
+| State of JS | [surveys](https://stateofjs.com/) |
+| State of React | [surveys](https://stateofreact.com/) |
+| State of GraphQL | [surveys](https://stateofgraphql.com/) |
 
 ## JavaScript Rising Stars
 https://risingstars.js.org/
