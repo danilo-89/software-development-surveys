@@ -36,6 +36,16 @@ A list of surveys covering various aspects of IT and software development, inclu
 |--|--|--|
 | World Wide Web Technology Surveys | [surveys](https://w3techs.com/) | |
 
+## Software Mansion
+| title / description | url | notes |
+|--|--|--|
+| State of React Native | [surveys](https://stateofreactnative.com/) | |
+
+## Solidity Team
+| title / description | url | notes |
+|--|--|--|
+| Solidity Developer Survey | [2022 survey](https://soliditylang.org/blog/2023/03/10/solidity-developer-survey-2022-results/) | |
+
 ## Pierre Carbonnelle
 | title / description | url | notes |
 |--|--|--|
