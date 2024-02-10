@@ -69,7 +69,7 @@ A list of surveys covering various aspects of IT and software development, inclu
 |--|--|--|
 | State of the Developer Nation Surveys | [surveys](https://developernation.net/resources/reports) | registration needed to see the full report | |
 
-## SmartBear Software - registration needed to see the full report
+## SmartBear Software
 | title / description | url | notes |
 |--|--|--|
 | SmartBear Surveys | [surveys](https://smartbear.com/state-of-software-quality/) | registration needed to see the full report | |
