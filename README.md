@@ -46,6 +46,11 @@ A list of surveys covering various aspects of IT and software development, inclu
 |--|--|--|
 | Solidity Developer Survey | [2022 survey](https://soliditylang.org/blog/2023/03/10/solidity-developer-survey-2022-results/) | |
 
+## Golang (Google)
+| title / description | url | notes |
+|--|--|--|
+| Go Developer Survey | [2023 H2 survey](https://go.dev/blog/survey2023-h2-results) | |
+
 ## Pierre Carbonnelle
 | title / description | url | notes |
 |--|--|--|
@@ -83,3 +88,7 @@ A list of surveys covering various aspects of IT and software development, inclu
 | title / description | url | notes |
 |--|--|--|
 | SmartBear Surveys | [surveys](https://smartbear.com/state-of-software-quality/) | registration needed to see the full report | |
+
+
+https://about.gitlab.com/developer-survey/
+https://www.couchbase.com/search/?cb_searchable_posts%5Bquery%5D=survey&cb_searchable_posts%5BrefinementList%5D%5Bpost_type_label%5D%5B0%5D=Press%20Releases
