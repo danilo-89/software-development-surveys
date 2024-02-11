@@ -79,16 +79,17 @@ A list of surveys covering various aspects of IT and software development, inclu
 |--|--|--|
 | State of Laravel | [surveys](https://stateoflaravel.com/) | |
 
+## GitLab
+| title / description | url | notes |
+|--|--|--|
+| DevSecOps Report | [surveys]([https://stateoflaravel.com/](https://about.gitlab.com/developer-survey/)) | sign up needed to see the full report |
+
 ## Developer Nation (SlashData)
 | title / description | url | notes |
 |--|--|--|
-| State of the Developer Nation Surveys | [surveys](https://developernation.net/resources/reports) | registration needed to see the full report | |
+| State of the Developer Nation Surveys | [surveys](https://developernation.net/resources/reports) | sign up needed to see the full report | |
 
 ## SmartBear Software
 | title / description | url | notes |
 |--|--|--|
-| SmartBear Surveys | [surveys](https://smartbear.com/state-of-software-quality/) | registration needed to see the full report | |
-
-
-https://about.gitlab.com/developer-survey/
-https://www.couchbase.com/search/?cb_searchable_posts%5Bquery%5D=survey&cb_searchable_posts%5BrefinementList%5D%5Bpost_type_label%5D%5B0%5D=Press%20Releases
+| SmartBear Surveys | [surveys](https://smartbear.com/state-of-software-quality/) | sign up needed to see the full report | |
