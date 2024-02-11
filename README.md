@@ -82,7 +82,7 @@ A list of surveys covering various aspects of IT and software development, inclu
 ## GitLab
 | title / description | url | notes |
 |--|--|--|
-| DevSecOps Report | [surveys]([https://stateoflaravel.com/](https://about.gitlab.com/developer-survey/)) | sign up needed to see the full report |
+| DevSecOps Report | [surveys](https://about.gitlab.com/developer-survey/) | sign up needed to see the full report |
 
 ## Developer Nation (SlashData)
 | title / description | url | notes |
