@@ -24,12 +24,12 @@ A list of surveys covering various aspects of IT and software development, inclu
 ## Octoverse (GitHub)
 | title / description | url | notes |
 |--|--|--|
-| The state of the Octoverse | [2023 survey](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/) | |
+| The state of the Octoverse | [surveys - Google Search](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fgithub.blog+%22Octoverse+report%22) | |
 
 ## JetBrains
 | title / description | url | notes |
 |--|--|--|
-| The State of Developer Ecosystem | [2023 survey](https://www.jetbrains.com/lp/devecosystem-2023/) | |
+| The State of Developer Ecosystem | [surveys](https://www.jetbrains.com/lp/devecosystem-2023/) | |
 
 ## W3Techs
 | title / description | url | notes |
@@ -44,12 +44,12 @@ A list of surveys covering various aspects of IT and software development, inclu
 ## Solidity Team
 | title / description | url | notes |
 |--|--|--|
-| Solidity Developer Survey | [2022 survey](https://soliditylang.org/blog/2023/03/10/solidity-developer-survey-2022-results/) | |
+| Solidity Developer Survey | [surveys - Google Search](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fsoliditylang.org%2Fblog+%22Solidity+Developer+Survey%22) | |
 
 ## Golang (Google)
 | title / description | url | notes |
 |--|--|--|
-| Go Developer Survey | [2023 H2 survey](https://go.dev/blog/survey2023-h2-results) | |
+| Go Developer Survey | [surveys - Google Search](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fgo.dev%2Fblog+%22Go+Developer+Survey%22) | |
 
 ## Pierre Carbonnelle
 | title / description | url | notes |
