@@ -51,6 +51,11 @@ A list of surveys covering various aspects of IT and software development, inclu
 |--|--|--|
 | Go Developer Survey | [surveys - Google Search](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fgo.dev%2Fblog+%22Go+Developer+Survey%22) | |
 
+## Planet Argon
+| title / description | url | notes |
+|--|--|--|
+| Ruby on Rails Survey | [surveys](https://rails-hosting.com/) | |
+
 ## Pierre Carbonnelle
 | title / description | url | notes |
 |--|--|--|
