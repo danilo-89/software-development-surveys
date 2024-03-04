@@ -98,3 +98,8 @@ A list of surveys covering various aspects of IT and software development, inclu
 | title / description | url | notes |
 |--|--|--|
 | SmartBear Surveys | [surveys](https://smartbear.com/state-of-software-quality/) | sign up needed to see the full report | |
+
+## Misc
+| title / description | url | notes |
+|--|--|--|
+| Brother UK | [European Remote Worker Index]([https://smartbear.com/state-of-software-quality/](https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index)https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index) |  | |
