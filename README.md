@@ -69,6 +69,11 @@ A list of surveys covering various aspects of IT and software development, inclu
 |--|--|--|
 | State of Database Survey | [surveys](https://stateofdb.com/) | |
 
+## Postman
+| title / description | url | notes |
+|--|--|--|
+| State of the API Survey | [surveys](https://www.postman.com/state-of-api/) | |
+
 ## Flatlogic
 | title / description | url | notes |
 |--|--|--|
